@@ -8,7 +8,7 @@ The issue is related to mouse/trackpad not being able to scroll after suspending
 ```console
 $ sudo nano /lib/systemd/system-sleep/psmouse-refresh
 ```
-  - Now place the following script in the file you created.
+- Now place the following script in the file you created.
 ```bash
 #!/bin/bash
 
@@ -18,6 +18,10 @@ if [[ $1 == post ]]; then
     modprobe psmouse
 fi
 
+```
+- Change permissions to make it executable 
+```console
+$ sudo chmod +x /lib/systemd/system-sleep/psmouse-refresh
 ```
 
 ### Do it automatically
