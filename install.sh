@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+# Run this script from terminal using sudo
 
 echo '#!/bin/bash
 
