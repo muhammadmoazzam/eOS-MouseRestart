@@ -26,6 +26,8 @@ fi
 `NOTE: This needs elevated/sudo privileges`
 
 ## Credits
-askubuntu.com user for the script: chooooons (https://askubuntu.com/users/874663/chooooons)
-Link to askubuntu question which helped: https://askubuntu.com/questions/1053720/scrolling-not-working-after-suspend-looking-for-permanent-solution
-Link to the Answer: https://askubuntu.com/a/1077839
+- askubuntu.com user for the script: chooooons (https://askubuntu.com/users/874663/chooooons)
+
+- Link to askubuntu question which helped: https://askubuntu.com/questions/1053720/scrolling-not-working-after-suspend-looking-for-permanent-solution
+
+- Link to the Answer: https://askubuntu.com/a/1077839
