@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# Run this script from terminal using sudo
 
 echo '#!/bin/bash
 
@@ -7,4 +6,4 @@ echo '#!/bin/bash
 if [[ $1 == post ]]; then
     modprobe -r psmouse
     modprobe psmouse
-fi' > /lib/systemd/system-sleep/psmouse-refresh
+fi' > /lib/systemd/system-sleep/psmouse-refresh && chmod +x /lib/systemd/system-sleep/psmouse-refresh
