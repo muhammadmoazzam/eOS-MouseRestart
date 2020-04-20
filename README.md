@@ -1,5 +1,5 @@
 This repository contains an executable script which is useful for resolving scroll issue of Mouse/Trackpad with elemetaryOS. 
-The issue is related to mouse/trackpad not being able to scroll after suspending the laptop. It should help with mouse scroll issue as well on desktop pc but it's not tested.
+The issue is related to mouse/trackpad not being able to scroll after suspending the laptop. It should resolve mouse scroll issue on Laptop but its not tested on desktop.
 
 # How to use the fix?
 ### Do it manually
